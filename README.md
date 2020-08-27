@@ -5,17 +5,26 @@ Musclery TrainingsJournal - Main Repo
 Julie Pines, Arthur Siebert, Tobias Bergmeier, Lukas Blank, Dennis Neumann
 
 ## Funktionen - Was muss die App können 
-- Kalorienzähler wie bei MyFitnessPal -> Arthur
+
+- Kalorienzähler wie bei MyFitnessPal -> Arthur </br>
   --> BMI Rechner (Feature)
   
-- Trainingstagebuch: Workout -> Übungen -> Sätze -> Wiederholungen und Gewicht (Hauptfunktion)
-  --> Dokumentieren der Workouts (Kalender) 
-  --> Welche Übungen wann, Wiederholungen und Gewicht.
+- Trainingstagebuch: Workout -> Übungen -> Sätze -> Wiederholungen und Gewicht (Hauptfunktion) </br>
+  --> Dokumentieren der Workouts (Kalender) </br>
+  --> Welche Übungen wann, Wiederholungen und Gewicht. </br>
   
-- Trainingsplanvorschlag
-  --> Übungen: 
-      - Speichern und nach Muskelkategorien sortieren. (Kategorie nach Muskelbelastung sortieren)
+- Kalorientracker </br>
+  --> Kalorienverbrauch pro Übung, Training etc. (API?) </br>
+  
+- Trainingsplanvorschlag </br>
+  --> Übungen: Speichern und nach Muskelkategorien sortieren. (Kategorie nach Muskelbelastung sortieren) </br>
       
-- Fortschrittsanalyse: (Feature)
+- Fortschrittsanalyse: (Feature) </br>
   --> Wie oft habe ich eine Übung gemacht? 
-      
+  
+## Umsetzung
+### Frontend: Native Script & Angular
+### Backend: Cloudfunctions
+### Walking Skeleton
+- Kalorienzähler auf Essen bezogen 
+- Trainingstagebuch
