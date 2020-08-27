@@ -2,7 +2,7 @@
 Musclery TrainingsJournal - Main Repo
 
 ## Team-Members:
-Julie Pines, Arthur Siebert, Tobias Bergmeier, Lukas Blank, Dennis Neumann
+Julie Pines, Arthur Siebert, Tobias Bergmeier, Lukas Blank, Dennis Neumann, Tobias Lorenz
 
 ## Funktionen - Was muss die App können 
 
