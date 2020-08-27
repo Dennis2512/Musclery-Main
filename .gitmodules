@@ -1,6 +1,0 @@
-[submodule "Musclery-Backend"]
-	path = Musclery-Backend
-	url = https://github.com/Dennis2512/Musclery-Backend
-[submodule "Musclery-Frontend"]
-	path = Musclery-Frontend
-	url = https://github.com/Dennis2512/Musclery-Frontend
