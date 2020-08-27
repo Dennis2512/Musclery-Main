@@ -1,6 +1,12 @@
 # Musclery-Main
 Musclery TrainingsJournal - Main Repo
 
+# Repositories
+
+Frontend: https://github.com/Dennis2512/Musclery-Frontend </br>
+
+Backend: https://github.com/Dennis2512/Musclery-Backend
+
 ## Team-Members:
 Julie Pines, Arthur Siebert, Tobias Bergmeier, Lukas Blank, Dennis Neumann, Tobias Lorenz
 
