@@ -8,7 +8,7 @@ Frontend: https://github.com/Dennis2512/Musclery-Frontend </br>
 Backend: https://github.com/Dennis2512/Musclery-Backend
 
 # Dokumetnation
-https://docs.google.com/document/d/1rZJbGZE1Rq9ZHIUR9Cv95VxCDoP302-oRRy8IjXIeq4/edit?usp=sharing
+https://docs.google.com/document/d/1rZJbGZE1Rq9ZHIUR9Cv95VxCDoP302-oRRy8IjXIeq4/edit#heading=h.nudg3dllkm0k
 
 ## Team-Members:
 Julie Pines, Arthur Siebert, Tobias Bergmeier, Lukas Blank, Dennis Neumann, Tobias Lorenz
